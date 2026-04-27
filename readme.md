@@ -1,7 +1,7 @@
 # Make America, America Again
 ![image](Make_America_America_Again.svg)
 
-##Overview
+## Overview
 
 **Make America, America Again** (`MAAA`) is a slogan and visual identity meant as a 
 deliberate riposte to “Make America Great Again.” It does not argue that America cannot 
@@ -9,8 +9,7 @@ be great; it argues that America cannot be itself while unamerican ideas and una
 steer the country in an unamerican direction.
 
 “America Again” is a call for national renewal: a return to constitutional self-government, 
-civic duty, productive work, and public-spirited confidence. The tone is intentionally accusatory 
-- because the claim is accusatory: that the country has been misled, and diverted away from 
+civic duty, productive work, and public-spirited confidence. The tone is intentionally accusatory - because the claim is accusatory: that the country has been misled, and diverted away from 
 an American path, and that it must be put back on it.
 
 ## Origin and reference
@@ -31,10 +30,14 @@ unamerican leadership.
 
 ## Visual system
 
-Geometry and tone. The iconography is deliberately simple, blocky, and geometric. 
+### Geometry and tone. 
+
+The iconography is deliberately simple, blocky, and geometric. 
 It is meant to read as orderly and repeatable - an emblem you could stencil, stamp, or carve - 
 suggesting harmony through structure rather than through ornament.
-Color. The primary color is Old Glory Blue (the deep blue associated with the U.S. flag).
+### Color. 
+
+The primary color is Old Glory Blue (the deep blue associated with the U.S. flag).
 Use a single, flat blue wherever possible; avoid gradients and effects. 
 A one-color black or white version is consistent when production requires it.
 
@@ -48,8 +51,6 @@ confidence and convert it into a modular symbol set.
 ![image](A.svg) -  a slight simplification of the Broadway capital “A,” preserving the weight and the internal negative space while tightening the angles for cleaner repetition.
 
 ![image](M.svg) -  a transformation of the Broadway capital “M,” adjusted to match the “A” geometry, stroke weight, and overall scale.
-
-![image](flag.svg) -  the outer geometry suggests a small handheld flag used to honor the fallen: upright, resolute, and ceremonial rather than decorative.
 
 ### Pattern system
 
